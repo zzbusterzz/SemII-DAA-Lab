@@ -1,0 +1,8 @@
+8
+Is 8 sum of three squares : true
+
+15
+Is 15 sum of three squares : false
+
+7
+Is 7 sum of three squares : false

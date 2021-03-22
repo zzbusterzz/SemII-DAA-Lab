@@ -1,0 +1,5 @@
+aaabbbbcc
+Is The character is repeated : true
+
+abcde
+Is The character is repeated : false

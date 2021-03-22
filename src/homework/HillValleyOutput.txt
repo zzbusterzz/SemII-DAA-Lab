@@ -1,0 +1,6 @@
+Enter integer, enter character to exit
+5
+7
+0
+w
+Is array hillvalley : true
